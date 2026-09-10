@@ -7,7 +7,7 @@ int a,b,sum,subtraction , multiplication  ;
 float division;
 char c[100];
 clrscr();
-printf("choose the option : \n1  addition  \n2.   subtraction  \n3. multiplication \n4. division\n > ");
+printf("choose the option : \n1. addition  \n2. subtraction  \n3. multiplication \n4. division\n > ");
 scanf("%s",&c);
 printf(" enter the  two number=");
 scanf("%d \n %d",&a, &b);
